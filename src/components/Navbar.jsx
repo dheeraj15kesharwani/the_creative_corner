@@ -12,8 +12,8 @@ export default function Navbar() {
         {/* Logo */}
         <Link to="/" className="flex gap-2">
           <img
-            src="../public/favicon.ico"
-            alt="Logo"
+            src="/images/newLo.png"
+            alt="logo"
             className="h-10 rounded-4xl"
           />
           <h1 className="text-xl mt-1 md:text-2xl font-bold text-gray-800">

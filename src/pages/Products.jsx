@@ -15,7 +15,7 @@ export default function Products() {
     {
       name: "hampers",
       title: "Gift Hampers 🎁",
-      image: "/images/hampers/hamperB.jpg",
+      image: "/images/hampers/hamper-C.jpg",
     },
     {
       name: "resin art",

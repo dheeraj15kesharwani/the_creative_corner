@@ -18,10 +18,6 @@ const products = [
     image: "/images/bouquet/flow-4.webp",
     badge: "Best Seller"
   },
-  { id: 5, category: "bouquets", name: "Flowers Bouquet", 
-    image: "/images/bouquet/flow-5.webp",
-    badge: "Best Seller"
-  },
   { id: 6, category: "bouquets", name: "Flowers Bouquet", 
     image: "/images/bouquet/flow-6.jpg",
     badge: "Best Seller"
@@ -157,10 +153,6 @@ const products = [
     image: "/images/bouquet/bq-1.png",
     badge: "Best Seller"
   },
-  { id: 30, category: "bouquets", name: "Cosmetic Bouquet",
-    image: "/images/bouquet/bq-2.png",
-    badge: "Best Seller"
-  },
   { id: 31, category: "bouquets", name: "Cosmetic Bouquet",
     image: "/images/bouquet/bq-3.png",
     badge: "Best Seller"
@@ -280,9 +272,9 @@ const products = [
 
 
    //Hampers  
-  {
+   {
     id: 55, category: "hampers", name: "Gift hamper",
-    image: "/images/hampers/hamperB.jpg",
+    image: "/images/hampers/hamper-C.jpg",
     badge: "Best Seller"
   },
   {
@@ -433,16 +425,6 @@ const products = [
   {
     id: 85, category: "hampers", name: "Gift hamper",
     image: "/images/hampers/hamper-29.jpeg",
-    badge: "Best Seller"
-  },
-  {
-    id: 86, category: "hampers", name: "Gift hamper",
-    image: "/images/hampers/hamper-30.jpeg",
-    badge: "Best Seller"
-  },
-  {
-    id: 86, category: "hampers", name: "Gift hamper",
-    image: "/images/hampers/hamper-30.jpeg",
     badge: "Best Seller"
   },
   {
@@ -851,35 +833,35 @@ const products = [
   {
     id: 136,
     category: "crochet gifts",
-    name: "Crochet Keychain",
+    name: "Crochet toys",
     image: "/images/crochet/toy1.jpeg",
     badge: "Best Seller"
   },
   {
     id: 137,
     category: "crochet gifts",
-    name: "Crochet Keychain",
+    name: "Crochet toys",
     image: "/images/crochet/toy2.jpeg",
     badge: "Best Seller"
   },
   {
     id: 138,
     category: "crochet gifts",
-    name: "Crochet Keychain",
+    name: "Crochet toys",
     image: "/images/crochet/toy3.jpeg",
     badge: "Best Seller"
   },
   {
     id: 136,
     category: "crochet gifts",
-    name: "Crochet Keychain",
+    name: "Crochet toys",
     image: "/images/crochet/toy4.jpeg",
     badge: "Best Seller"
   },
   {
     id: 136,
     category: "crochet gifts",
-    name: "Crochet Keychain",
+    name: "Crochet toys",
     image: "/images/crochet/toy5.jpeg",
     badge: "Best Seller"
   },

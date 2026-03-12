@@ -39,14 +39,15 @@ export default function Home() {
         </motion.p>
 
             <div className="space-x-4">
-            <motion.a
-                whileHover={{ scale: 1.05 }}
-                whileTap={{ scale: 0.95 }}
-                href="/products"
-                className="bg-pink-500 px-6 py-3 rounded-full shadow-lg hover:bg-pink-600 transition"
-            >
-                Explore Gifts
-            </motion.a>
+            <Link to="/products">
+                <motion.button
+                    whileHover={{ scale: 1.05 }}
+                    whileTap={{ scale: 0.95 }}
+                    className="bg-pink-500 px-6 py-3 rounded-full shadow-lg hover:bg-pink-600 transition"
+                >
+                    Explore Gifts
+                </motion.button>
+            </Link>
 
             <motion.a
                 whileHover={{ scale: 1.05 }}
