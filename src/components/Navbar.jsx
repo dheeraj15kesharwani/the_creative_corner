@@ -12,7 +12,7 @@ export default function Navbar() {
         {/* Logo */}
         <Link to="/" className="flex gap-2">
           <img
-            src="/images/newLo.png"
+            src="/images/logo.png"
             alt="logo"
             className="h-10 rounded-4xl"
           />
