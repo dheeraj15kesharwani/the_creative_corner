@@ -89,7 +89,7 @@ export default function Products() {
         </h2>
 
         <p className="text-gray-600 mb-6">
-          We also take custom orders for special occasions 💝
+          We also take Customized orders for special occasions 💝
         </p>
 
         <a
