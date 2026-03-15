@@ -23,8 +23,8 @@ export default function Products() {
       image: "/images/resinArt/img27.jpeg",
     },
     {
-      name: "ring plater",
-      title: "Ring Plater 💍✨",
+      name: "ring platter",
+      title: "Ring Platter 💍✨",
       image: "/images/ringPlate/ring-1.jpeg",
     },
 
@@ -98,7 +98,7 @@ export default function Products() {
           rel="noreferrer"
           className="bg-pink-500 text-white px-8 py-3 rounded-full hover:bg-pink-600 transition"
         >
-          Request Custom Gift
+          Request Customized Gift
         </a>
       </section>
 

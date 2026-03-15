@@ -219,11 +219,6 @@ const products = [
     badge: "Best Seller"
   },
   {
-    id: 45, category: "frames", name: "Custom Love Frame", 
-    image: "/images/frames/frame-3.jpeg",
-    badge: "Best Seller"
-  },
-  {
     id: 46, category: "frames", name: "Custom Love Frame", 
     image: "/images/frames/frame-4.png",
     badge: "Best Seller"
@@ -638,59 +633,59 @@ const products = [
   },
 
 
-  //Ringplater
+  //Ringplattr
   {
-    id: 116, category: "ring plater", name: "Customized Resin Art", 
+    id: 116, category: "ring platter", name: "Customized Ring platter", 
     image: "/images/ringPlate/ring-1.jpeg",
     badge: "Best Seller"
   },
   {
-    id: 116, category: "ring plater", name: "Customized Resin Art", 
+    id: 116, category: "ring platter", name: "Customized Ring platter", 
     image: "/images/ringPlate/ring-2.jpeg",
     badge: "Best Seller"
   },
   {
-    id: 116, category: "ring plater", name: "Customized Resin Art", 
+    id: 116, category: "ring platter", name: "Customized Ring platter", 
     image: "/images/ringPlate/ring-3.jpeg",
     badge: "Best Seller"
   },
   {
-    id: 116, category: "ring plater", name: "Customized Resin Art", 
+    id: 116, category: "ring platter", name: "Customized Ring platter", 
     image: "/images/ringPlate/ring-4.jpeg",
     badge: "Best Seller"
   },
   {
-    id: 116, category: "ring plater", name: "Customized Resin Art", 
+    id: 116, category: "ring platter", name: "Customized Ring platter", 
     image: "/images/ringPlate/ring-5.jpeg",
     badge: "Best Seller"
   },
   {
-    id: 116, category: "ring plater", name: "Customized Resin Art", 
+    id: 116, category: "ring platter", name: "Customized Ring platter", 
     image: "/images/ringPlate/ring-6.jpeg",
     badge: "Best Seller"
   },
   {
-    id: 116, category: "ring plater", name: "Customized Resin Art", 
+    id: 116, category: "ring platter", name: "Customized Ring platter", 
     image: "/images/ringPlate/ring-7.jpeg",
     badge: "Best Seller"
   },
   {
-    id: 116, category: "ring plater", name: "Customized Resin Art", 
+    id: 116, category: "ring platter", name: "Customized Ring platter", 
     image: "/images/ringPlate/ring-8.jpeg",
     badge: "Best Seller"
   },
   {
-    id: 116, category: "ring plater", name: "Customized Resin Art", 
+    id: 116, category: "ring platter", name: "Customized Ring platter", 
     image: "/images/ringPlate/ring-9.jpeg",
     badge: "Best Seller"
   },
   {
-    id: 116, category: "ring plater", name: "Customized Resin Art", 
+    id: 116, category: "ring platter", name: "Customized Ring platter", 
     image: "/images/ringPlate/ring-10.jpeg",
     badge: "Best Seller"
   },
   {
-    id: 116, category: "ring plater", name: "Customized Resin Art", 
+    id: 116, category: "ring platter", name: "Customized Ring platter", 
     image: "/images/ringPlate/ring-11.jpeg",
     badge: "Best Seller"
   },
